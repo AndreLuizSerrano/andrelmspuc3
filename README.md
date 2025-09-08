@@ -1,4 +1,4 @@
-# MVP 3 - Ciência de Dados: Classificação da Qualidade de Vinhos
+# MVP 3 - Ciência de Dados: Classificação da Qualidade de Vinhos  _ Simulação
 
 **Discente:** Andre Luiz Marques Serrano  
 **Data:** 28/08/2025  
